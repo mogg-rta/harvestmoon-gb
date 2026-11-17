@@ -11,7 +11,7 @@
 | 走者 | mogg |
 | 環境 | Game Boy Player（ゲームキューブ、GC コントローラー）、日本語版のカートリッジ |
 | 動画 | https://www.youtube.com/watch?v=XjVst8yQE24 |
-| 解説動画 | 準備中 |
+| 解説動画 | https://www.youtube.com/watch?v=AexjDfntDls |
 | speedrun.com | 申請中 |
 
 ## ルール
