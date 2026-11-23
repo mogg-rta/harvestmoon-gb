@@ -10,7 +10,7 @@
 | 走った日 | 2026-11-23 |
 | 走者 | mogg |
 | 環境 | Game Boy Player（ゲームキューブ、GC コントローラー）、日本語版のカートリッジ |
-| 動画 | 準備中 |
+| 動画 | https://www.youtube.com/watch?v=QtAN5xHYP8E |
 | speedrun.com | 申請中 |
 
 | 区間 | 通し | 区間タイム |
